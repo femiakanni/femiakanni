@@ -21,7 +21,7 @@
             <div>
                 <h1>Femi Adeniji</h1>
             </div>
-            <a href="#about">About us</a> <!-- This is inline internal linking of different sections on the same page-->
+            <a href="#about">About me</a> <!-- This is inline internal linking of different sections on the same page-->
             <a href="./contact.html" target="_blank">Contact Page</a>
             <!-- This is inline internal linking of a different page on the same website-->
             <a href="#services">Services</a>

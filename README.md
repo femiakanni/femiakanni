@@ -45,7 +45,7 @@
                 <h1>Services</h1>
                 <li>I do web design jobs</li>
                 <li>I am into teaching programming languages in schools around the country.</li>
-                <li>I provide digital solutions to current challenges in the banking industries</li>
+             
              
             </ul>
 

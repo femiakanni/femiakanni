@@ -1,7 +1,7 @@
 
 # I am Adeniji Emmanuel Adefemi
 ## A passionate frontend developer from Nigeria
-### I am knowledgele in python programming language
+### I am knowledgeable in python programming language
 
 <!DOCTYPE html>
 <html lang="en">
